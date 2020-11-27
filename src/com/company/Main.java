@@ -15,6 +15,8 @@ public class Main {
 
             }
             System.out.println("suma Losowych liczb  ="+" "+" "+a);
+
+
     }
 }
 
